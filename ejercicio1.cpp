@@ -6,13 +6,13 @@ using namespace std;
 
 int main()
 {
-   int num1,num2,num3,suma,resta,multiplicacion;
+   int num1, num2, num3, suma, resta, multiplicacion;
    cout << "Ingrese un numero ";
-   cin>>num1;
+   cin >> num1;
    cout << "Ingrese otro numero ";
-   cin>>num2;
+   cin >> num2;
    cout << "Ingrese otro numero ";
-   cin>>num3;
+   cin >> num3;
    suma = num1 + num2;
    resta = num1 - num2 - num3;
    multiplicacion = num1 * num2 * num3;
