@@ -12,7 +12,7 @@ int main()
   cin >> nota1 >> nota2 >> nota3 >> nota4;
   prom = (float)(nota1 + nota2 + nota3 + nota4) / 4;
   // suma=nota1+nota2+nota3+nota4;
-  // prom=(float)suma/4;
+  // prom=(float)suma/4; 
   cout << prom;
   return 0;
 }
